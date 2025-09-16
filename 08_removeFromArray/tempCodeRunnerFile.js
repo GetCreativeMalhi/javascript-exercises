@@ -1,0 +1,1 @@
+  // arr.splice((arr.indexOf(num)), 1);
